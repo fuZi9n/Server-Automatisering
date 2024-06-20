@@ -1,0 +1,1 @@
+New-Item -Name dirname -itemtype "directory"
