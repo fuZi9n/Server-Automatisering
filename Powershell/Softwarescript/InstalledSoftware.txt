@@ -1,0 +1,66 @@
+
+DisplayName                                                        DisplayVersion       Publisher                        InstallDate
+-----------                                                        --------------       ---------                        -----------
+Cisco Packet Tracer 8.2.2 64Bit                                    8.2.2.400            Cisco Systems, Inc.              20240604   
+Git                                                                2.45.2               The Git Development Community    20240604   
+Microsoft 365 - da-dk                                              16.0.17628.20144     Microsoft Corporation                       
+Microsoft 365 - en-us                                              16.0.17628.20144     Microsoft Corporation                       
+Microsoft OneDrive                                                 24.101.0519.0010     Microsoft Corporation                       
+LEGO® Star Wars™: The Complete Saga                                                     Traveller's Tales                           
+Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.22.27821        14.22.27821          Microsoft Corporation            20240521   
+Microsoft Visual C++ 2019 X64 Additional Runtime - 14.22.27821     14.22.27821          Microsoft Corporation            20240521   
+Office 16 Click-to-Run Licensing Component                         16.0.17628.20144     Microsoft Corporation            20240617   
+Office 16 Click-to-Run Extensibility Component                     16.0.17628.20110     Microsoft Corporation            20240603   
+Office 16 Click-to-Run Localization Component                      16.0.17628.20110     Microsoft Corporation            20240603   
+NVIDIA Graphics Driver 555.85                                      555.85               NVIDIA Corporation               20240603   
+NVIDIA GeForce Experience 3.28.0.412                               3.28.0.412           NVIDIA Corporation               20240603   
+NVIDIA Optimus Update 39.5.0.0                                     39.5.0.0             NVIDIA Corporation               20240603   
+NVIDIA PhysX System Software 9.23.1019                             9.23.1019            NVIDIA Corporation               20240603   
+NVIDIA Update 39.5.0.0                                             39.5.0.0             NVIDIA Corporation               20240603   
+NVIDIA FrameView SDK 1.3.8513.32290073                             1.3.8513.32290073    NVIDIA Corporation               20240603   
+NVIDIA SHIELD Streaming                                            7.1.33903191         NVIDIA Corporation               20240603   
+NVIDIA GPX Common OSS binaries (POCO, OpenSSL, libprotobuf)        7.1                  NVIDIA Corporation               20240603   
+NVIDIA HD Audio Driver 1.4.0.1                                     1.4.0.1              NVIDIA Corporation               20240603   
+NVIDIA Install Application                                         2.1002.418.0         NVIDIA Corporation               20240603   
+NVIDIA Backend                                                     39.5.0.0             NVIDIA Corporation               20240603   
+NVIDIA Container                                                   1.40                 NVIDIA Corporation               20240603   
+NVIDIA TelemetryApi helper for NvContainer                         1.40                 NVIDIA Corporation               20240603   
+NVIDIA LocalSystem Container                                       1.40                 NVIDIA Corporation               20240603   
+NVIDIA Message Bus for NvContainer                                 1.34                 NVIDIA Corporation               20240603   
+NVIDIA NVAPI Monitor plugin for NvContainer                        1.0                  NVIDIA Corporation               20240603   
+NVIDIA NetworkService Container                                    1.40                 NVIDIA Corporation               20240603   
+NVIDIA Session Container                                           1.40                 NVIDIA Corporation               20240603   
+NVIDIA User Container                                              1.40                 NVIDIA Corporation               20240603   
+NVIDIA NvModuleTracker                                             6.14.26040.64835     NVIDIA Corporation               20240603   
+NVIDIA NodeJS                                                      3.28.0.412           NVIDIA Corporation               20240603   
+NVIDIA Platform Controllers and Framework                          555.46               NVIDIA Corporation               20240603   
+NVIDIA Watchdog Plugin for NvContainer                             1.40                 NVIDIA Corporation               20240603   
+NVIDIA Telemetry Client                                            18.1.13.0            NVIDIA Corporation               20240603   
+NVIDIA Virtual Host Controller                                     3.05.0.1             NVIDIA Corporation               20240603   
+Nvidia Share                                                       3.28.0.412           NVIDIA Corporation               20240603   
+NVIDIA ShadowPlay 3.28.0.412                                       3.28.0.412           NVIDIA Corporation               20240603   
+NVIDIA SHIELD Wireless Controller Driver                           3.25.1.25            NVIDIA Corporation               20240521   
+NVIDIA Update Core                                                 39.5.0.0             NVIDIA Corporation               20240603   
+NVIDIA Virtual Audio 4.65.0.3                                      4.65.0.3             NVIDIA Corporation               20240603   
+Microsoft Update Health Tools                                      5.72.0.0             Microsoft Corporation            20240519   
+OpenVPN 2.5.2-I601 amd64                                           2.5.021              OpenVPN, Inc.                    20240620   
+GeoGebra 5                                                         5.2.823.0            International GeoGebra Institute 20240519   
+Google Chrome                                                      126.0.6478.62        Google LLC                       20240620   
+Graph 4.4.2                                                                             Ivan Johansen                    20240519   
+Microsoft Edge                                                     126.0.2592.61        Microsoft Corporation            20240620   
+Microsoft Edge Update                                              1.3.187.41                                                       
+Microsoft Edge WebView2 Runtime                                    126.0.2592.61        Microsoft Corporation            20240620   
+Steam                                                              2.10.91.91           Valve Corporation                           
+Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.22.27821        14.22.27821          Microsoft Corporation            20240521   
+WordMat v. 1.29.1                                                  1.29.1               Eduap                            20240519   
+Microsoft Visual C++ 2019 X86 Additional Runtime - 14.22.27821     14.22.27821          Microsoft Corporation            20240521   
+Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.22.27821 14.22.27821.0        Microsoft Corporation                       
+Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.22.27821 14.22.27821.0        Microsoft Corporation                       
+ASUS Smart Display Control                                         1.10.0               ASUSTek COMPUTER INC.            20240521   
+Discord                                                            1.0.9147             Discord Inc.                     20242703   
+GitHub Desktop                                                     3.4.1                GitHub, Inc.                     20240620   
+Spotify                                                            1.2.38.720.ga4a70a0e Spotify AB                       20240526   
+Microsoft Visual Studio Code (User)                                1.90.2               Microsoft Corporation            20240620   
+
+
+
