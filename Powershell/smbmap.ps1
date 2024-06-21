@@ -1,0 +1,1 @@
+New-SmbMapping -LocalPath 'c:' -RemotePath '\\192.168.1.10\drev'
