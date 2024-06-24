@@ -1,0 +1,1 @@
+Add-Computer -ComputerName batmanpc -LocalCredential batmanpc\batman -DomainName ussr.ru -Credential ussr.ru\administrator -Restart -Force
